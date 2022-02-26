@@ -1,0 +1,9 @@
+Server:		75.75.75.75
+Address:	75.75.75.75#53
+
+Non-authoritative answer:
+Name:	www.google.com
+Address: 172.217.3.68
+Name:	www.google.com
+Address: 2607:f8b0:4008:807::2004
+
