@@ -1,0 +1,2 @@
+# knowlege-book-cyber-weapons-dump
+im not too active on this whole russia thing but like any major event in time or history that we have such as wars, i like to take scripts ive written or come across or fixed etc etc and release them public-ally, since the Ukraine and russian fight i have a major collection of scripts for my fancy hacker's out there, this is a collection of perl, c, and go, mainly go and perl
