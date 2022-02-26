@@ -65,3 +65,9 @@ im not too active on this whole russia thing but like any major event in time or
                                                                                                                                    
 
 ```
+
+# side note 
+
+i try the best to remain unpolitical on all platforms including social medias like discord and other platforms, however if you have been following me from day one you know this is very very common for me to do, during the DDOS attacks on the whitehouse in 2021, riots in 2020, attacks in 2019, etc i have constantly released scripts on every github i have ever had even when i was a script kiddie and thinking i was the shit cause i knew how to boot a website offline XD, but i decided to dump alot more tools this time more revolving around hash attacks, brute forcing, wireless hacking,. bluetooth hacking, wireless attacks, web application attacks, injection utilities etc etc etc etc the list goes on 
+
+most of these scripts are mine some are but ill let you figure that out :D, anyway, enjoy this dump 
